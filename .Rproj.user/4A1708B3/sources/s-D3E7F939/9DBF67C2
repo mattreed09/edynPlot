@@ -1,9 +1,9 @@
 {
     "id": "9DBF67C2",
-    "path": "C:/Users/matt.reed/SACO/Revenue Management - Documents/Commercial Analytics/R code/homemade packages/edynGraphs/R/edyn_colors.R",
+    "path": "C:/Users/matt.reed/GitHub/edynPlot/R/edyn_colors.R",
     "project_path": "R/edyn_colors.R",
     "type": "r_source",
-    "hash": "4123536821",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1643971716460.0,
@@ -11,15 +11,15 @@
     "relative_order": 2,
     "properties": {
         "tempName": "Untitled1",
-        "cursorPosition": "18,16",
-        "scrollLine": "0"
+        "cursorPosition": "20,0",
+        "scrollLine": "8"
     },
     "folds": "",
-    "lastKnownWriteTime": 1643986872,
+    "lastKnownWriteTime": 1644502432,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1643986872281,
+    "last_content_update": 1644502432320,
     "read_only": false,
     "read_only_alternatives": []
 }
